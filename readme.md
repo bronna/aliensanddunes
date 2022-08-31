@@ -2,4 +2,4 @@
 
 Created with Threejs and custom shaders
 
-By Brianna Wilson
+Brianna Wilson
